@@ -30,4 +30,13 @@ pnpm install
 
 # Build Solidity contracts (required for tests and linting)
 pnpm build:contracts
+
 ```
+FAUZI BIN ABU SAMAH  
+No. Kad Pengenalan: 820916-08-6777  
+No. 103 Tingkat Seri Rapat 6  
+Taman Maju Rapat  
+31350 Ipoh, Perak
+
+BANK SIMPANAN NASIONAL 
+0800241100038139
